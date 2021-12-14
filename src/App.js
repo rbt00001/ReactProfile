@@ -1,5 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import { BrowserRouter, Route, Switch, Link } from "react-router-dom";
+import footer from "./Components/Footer";
+import header from "./Components/Header";
 
 function App() {
   return (
