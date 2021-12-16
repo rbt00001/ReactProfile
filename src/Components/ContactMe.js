@@ -3,7 +3,7 @@ function ContactMe() {
   return (
     <main>
       &copy;
-      <div classNameName="col-4 col-12-small">
+      <div className="col-4 col-12-small">
         <ul className="labeled-icons">
           <li>
             <h3 className="icon solid fa-home">
